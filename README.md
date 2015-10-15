@@ -1,6 +1,8 @@
 # GitTalk
 
-Should be buildable as long as you have the full `texlive` package installed
+The final PDFs are stored in [Github releases](https://github.com/jamietanna/gittalk15/releases), so as not to pollute my repo with binary files.
+
+To compile the files, you will need to have your distro's full `texlive` package installed, and run `make`.
 
 ## Introduction to Git
 
